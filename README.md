@@ -28,7 +28,7 @@ The outcome is a set of well-designed screens for a movie recommendation system,
 1. **Home Screen**:
    ![Home Screen](https://github.com/Imannadeem1/IntennIntelligence_MovieRecommendationSystem/blob/5bbf71d49ea32fa3f6aff5235b50c43393437daf/Home.png)
 2. **Movie Details Screen**:
-   ![Movie Details Screen](iPhone%2013%20&%2014%20-%202.png)
+   ![Movie Details Screen](https://github.com/Imannadeem1/IntennIntelligence_MovieRecommendationSystem/blob/56c8a4e97a241c8336040d1eb82198793e699884/MovieDetails.png)
 3. **Splash Screen**:
    ![Splash Screen](Splash.png)
 
