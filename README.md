@@ -25,12 +25,10 @@ The outcome is a set of well-designed screens for a movie recommendation system,
 - **Splash Screen**: The initial screen that appears when the app is launched, featuring the app logo and a "Get Started" button.
 
 ## Screenshots
-1. **Home Screen**:
-   ![Home Screen](https://github.com/Imannadeem1/IntennIntelligence_MovieRecommendationSystem/blob/5bbf71d49ea32fa3f6aff5235b50c43393437daf/Home.png)
-2. **Movie Details Screen**:
-   ![Movie Details Screen](https://github.com/Imannadeem1/IntennIntelligence_MovieRecommendationSystem/blob/56c8a4e97a241c8336040d1eb82198793e699884/MovieDetails.png)
-3. **Splash Screen**:
    ![Splash Screen](https://github.com/Imannadeem1/IntennIntelligence_MovieRecommendationSystem/blob/f956b5ba526cde208fad094bb6b053dbb11033fe/Splash.png)
 
+   ![Home Screen](https://github.com/Imannadeem1/IntennIntelligence_MovieRecommendationSystem/blob/5bbf71d49ea32fa3f6aff5235b50c43393437daf/Home.png)
+   ![Movie Details Screen](https://github.com/Imannadeem1/IntennIntelligence_MovieRecommendationSystem/blob/56c8a4e97a241c8336040d1eb82198793e699884/MovieDetails.png)
+   
 ## Conclusion
 This project successfully demonstrates the design process for a movie recommendation system. The screens are designed to be user-friendly and visually appealing, ensuring a seamless experience for users. The use of Figma allowed for efficient design and prototyping, while GitHub facilitated version control and collaboration. The final designs include a home screen, movie details screen, and splash screen, each tailored to enhance the user experience.
