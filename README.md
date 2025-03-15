@@ -26,7 +26,6 @@ The outcome is a set of well-designed screens for a movie recommendation system,
 
 ## Screenshots
    ![Splash Screen](https://github.com/Imannadeem1/IntennIntelligence_MovieRecommendationSystem/blob/f956b5ba526cde208fad094bb6b053dbb11033fe/Splash.png)
-
    ![Home Screen](https://github.com/Imannadeem1/IntennIntelligence_MovieRecommendationSystem/blob/5bbf71d49ea32fa3f6aff5235b50c43393437daf/Home.png)
    ![Movie Details Screen](https://github.com/Imannadeem1/IntennIntelligence_MovieRecommendationSystem/blob/56c8a4e97a241c8336040d1eb82198793e699884/MovieDetails.png)
    
